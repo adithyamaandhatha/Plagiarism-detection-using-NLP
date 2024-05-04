@@ -1,0 +1,8 @@
+Pylance
+PyPDF2
+Streamlit
+scikit-learn
+docx
+pytesseract
+nltk
+Presentation
